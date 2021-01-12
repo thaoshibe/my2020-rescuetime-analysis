@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# File
+rescuetime-activity-history.csv
+rescuetime_data_analysis.ipynb
